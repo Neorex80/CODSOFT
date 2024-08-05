@@ -26,7 +26,7 @@ pip install colorama
 
 1. Clone the repository or download the `password_generator.py` file.
 
-2. Open your terminal and navigate to the directory containing `password_generator.py`.
+2. Open your terminal and navigate to the directory containing `passgen.py`.
 
 3. Run the application:
 
