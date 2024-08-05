@@ -28,7 +28,7 @@ pip install colorama
 ## Usage
 
 1. Clone the repository or download the `rock_paper_scissors.py` file.
-2. Open your terminal and navigate to the directory containing `rock_paper_scissors.py`.
+2. Open your terminal and navigate to the directory containing `game.py`.
 3. Run the application:
 
 ```bash
