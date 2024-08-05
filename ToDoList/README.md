@@ -25,7 +25,7 @@ pip install colorama
 
 1. Clone the repository or download the `todo_list.py` file.
 
-2. Open your terminal and navigate to the directory containing `todo_list.py`.
+2. Open your terminal and navigate to the directory containing `todolist.py`.
 
 3. Run the application:
 
