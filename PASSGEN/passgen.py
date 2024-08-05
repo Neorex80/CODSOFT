@@ -67,7 +67,7 @@ def view_passwords():
         print(Fore.RED + "No passwords saved yet.")
 
 def main():
-    print(Fore.CYAN + "Welcome to the Password Generator!")
+    print(Fore.CYAN + "==== Welcome to the Password Generator! ====")
 
     while True:
         print(Fore.GREEN + "\nMenu:")
